@@ -35,13 +35,24 @@ Ben, yazılım geliştirme ve teknoloji dünyasına tutkuyla bağlı bir yazıl�
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KOSMO471&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KOSMO471&layout=compact&theme=tokyonight" alt="Top Langs" height="180" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=KOSMO471&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"
+    alt="GitHub Stats"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KOSMO471&layout=compact&theme=tokyonight&langs_count=8"
+    alt="Top Languages"
+    height="180"
+  />
 </p>
 
 <p align="center">
   <!-- Profil Ziyaretçi Sayacı -->
-  <img src="https://profile-counter.glitch.me/KOSMO471/count.svg" alt="Visitor Counter" />
+  <img
+    src="https://komarev.com/ghpvc/?username=KOSMO471&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+    alt="Profile Views"
+  />
 </p>
 
 ---
@@ -50,7 +61,7 @@ Ben, yazılım geliştirme ve teknoloji dünyasına tutkuyla bağlı bir yazıl�
 
 <p align="left">
   <a href="https://www.youtube.com/@kosmo471" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Youtube" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:fatih@ornek.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
